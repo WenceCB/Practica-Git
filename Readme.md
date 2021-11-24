@@ -33,7 +33,7 @@
 
 ### ¿Qué comando o comandos utilizaste en el paso 25?
 > 		$ git log --graph --abbrev-commit --decorate --all
->	![captura](https://raw.githubusercontent.com/WenceCB/Practica-Git/master/Grafo.jpg?token=ADFRXEW2JSM3YWLLPYQD363BT2FRU)
+>	![captura](https://raw.githubusercontent.com/WenceCB/Practica-Git/master/Grafo.jpg)
 
 ### 26.- Hacer un merge “no fast-forward” de “title” en “master” (master absorbe a title)  ¿Podría ser **Fast-Foward**?
 
